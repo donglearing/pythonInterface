@@ -1,0 +1,4 @@
+#import xlrd
+#def phasexl():
+  #  xl=xlrd.open_workbook(r'D:\work\发布版本信息.xlsx')
+    #sheet=xl.sheet_by_name("sheet1")
